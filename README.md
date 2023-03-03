@@ -31,7 +31,7 @@ Este README lo estoy haciendo para una práctica de un bootcamp de programación
 
 | Comandos alias terminal | Descripción |
 | ----------- | ----------- |
-| `alias rm= "trash"` | Para que cuando borres algun archivo lo pase a la carpeta de basura por si quieres recuperarlo |
+| `alias rm= "trash"` | Para que al borrar algun archivo lo pase a la papelera por si quieres recuperarlo |
 | `alias cl="clear"` | Para limpiar la consola de comandos | 
 
 
