@@ -15,6 +15,8 @@ Este README lo estoy haciendo para una práctica de un bootcamp de programación
 - [x] Markdown
 - [x] HTML
 - [x] CSS
+- [x] Terminal
+- [x] Git
 - [x] Javascript (estoy dominandolo)
 - [ ] TypeScript
 - [ ] JSON
